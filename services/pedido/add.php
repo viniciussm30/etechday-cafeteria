@@ -1,6 +1,8 @@
 <?php
   #adicionar na aula do dia 12.02.2020
 
+  #adicionar lá na web no github
+
   include "../../controller/conexao.php" ;
 
   $resposta = array( ) ;
